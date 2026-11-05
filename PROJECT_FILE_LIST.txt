@@ -1,0 +1,23 @@
+ROOT
+├── .github/
+│   └── workflows/
+│       └── android-build.yml
+├── app/
+│   ├── build.gradle
+│   └── src/main/
+│       ├── AndroidManifest.xml
+│       ├── java/com/lkstudystudio/eduspace/MainActivity.java
+│       ├── res/drawable/ic_launcher.xml
+│       ├── res/values/styles.xml
+│       └── assets/www/
+│           ├── index.html
+│           ├── styles.css
+│           ├── app.js
+│           ├── manifest.json
+│           ├── sw.js
+│           └── assets/icon.svg
+├── build.gradle
+├── gradle.properties
+├── settings.gradle
+├── .gitignore
+└── README.md
