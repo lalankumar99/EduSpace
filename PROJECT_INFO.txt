@@ -1,4 +1,0 @@
-EduSpace Android starter
-Package: com.lkstudystudio.eduspace
-Build: GitHub Actions / Gradle / Android Gradle Plugin
-Output: app/build/outputs/apk/debug/app-debug.apk
